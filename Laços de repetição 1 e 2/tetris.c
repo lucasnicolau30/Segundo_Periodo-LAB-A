@@ -6,7 +6,8 @@ int codebench_exercicio_erro(void) {
     puts("Use a funcao `putchar()' para imprimir cada caracter."); 
     puts("Exemplo: putchar('#'); 
     imprime uma veze o caracter #"); 
-    exit(EXIT_FAILURE); } 
+    exit(EXIT_FAILURE); 
+} 
     
     #define printf(...) 
     
